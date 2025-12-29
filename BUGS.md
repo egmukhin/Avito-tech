@@ -5,7 +5,7 @@
 ### Приоритет: low
 
 ### Окружение:
-Host: https://qa-internship.avito.com
+Host: https://qa-internship.avito.com                       
 Ручка: Создать объявление (Create item)
 
 ### Предусловие:
